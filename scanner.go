@@ -18,7 +18,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/Intevation/gval"
 )
 
 const jsonpathTokens = goscanner.ScanIdents | goscanner.ScanFloats |
@@ -26,7 +26,7 @@ const jsonpathTokens = goscanner.ScanIdents | goscanner.ScanFloats |
 
 const bufLen = 1024 // at least utf8.UTFMax
 
-// A scanner implements a [github.com/PaesslerAG/gval/Scanner].
+// A scanner implements a [github.com/Intevation/gval/Scanner].
 type scanner struct {
 	// Input
 	src io.Reader

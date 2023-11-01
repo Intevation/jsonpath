@@ -5,8 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/PaesslerAG/gval"
-	//"github.com/PaesslerAG/jsonpath"
+	"github.com/Intevation/gval"
 	"github.com/google/go-cmp/cmp"
 	"gopkg.in/yaml.v3"
 )

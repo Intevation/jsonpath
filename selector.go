@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/Intevation/gval"
 )
 
 // plainSelector evaluate exactly one result
