@@ -8,13 +8,13 @@
 // to access all wildcards values or the ith wildcard
 //
 // This package can be extended with gval modules for script features like multiply, length, regex or many more.
-// So take a look at github.com/PaesslerAG/gval.
+// So take a look at github.com/Intevation/gval.
 package jsonpath
 
 import (
 	"context"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/Intevation/gval"
 )
 
 type Array interface {

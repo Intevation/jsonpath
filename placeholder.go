@@ -7,7 +7,7 @@ import (
 	"strconv"
 	goscanner "text/scanner"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/Intevation/gval"
 )
 
 type keyValueVisitor func(key string, value interface{})

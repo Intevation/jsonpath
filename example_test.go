@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/PaesslerAG/gval"
+	"github.com/Intevation/gval"
 
-	"github.com/PaesslerAG/jsonpath"
+	"github.com/Intevation/jsonpath"
 )
 
 func ExampleGet() {

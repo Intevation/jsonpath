@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/PaesslerAG/jsonpath"
+	"github.com/Intevation/jsonpath"
 	"github.com/google/go-cmp/cmp"
 )
 
