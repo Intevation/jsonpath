@@ -1,4 +1,4 @@
-module github.com/PaesslerAG/jsonpath
+module github.com/Intevation/jsonpath
 
 go 1.15
 
